@@ -1,5 +1,5 @@
-# BuildsLeagueofLegends
-
+# Builds League of Legends
+# Description
 Welcome in our offline all-in-one app for LOL.
 You can find here everything you need to start play on semi-pro or pro level.
 
@@ -31,3 +31,11 @@ More then this:
 
 
 Builds League of Legends isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+
+# Where does this data come from?
+
+All of the data like graphics and champions icons is from <a href="http://ddragon.leagueoflegends.com/tool/">Data Dragon</a>
+
+# Why this app?
+No one like to minimize the LOL game to check somethings. This all-in-one app provide all informations for semi-pro or pro players.
+

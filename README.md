@@ -21,3 +21,13 @@ When play on DRAFT you need to ALT+TAB to pick the best champions. It's freak ev
 Then when play and need to choose items, you press ALT + TAB every time when forgot something. This operation make lags, disconnections, bugs and take some precious time.
 All data base is in app so even when your smartphone or tablet is Wi-Fi connected this will not make any lags in LOL game. You can turn connection off and our app will be just fine.
 You can read about strategy anywhere.
+
+More then this:
+- You can study to enhance your gaming
+- Learn about the heroes you are facing
+- Learn the new champion
+- Search your champion faster
+- Read about champion lore (all of them have diffrent story)
+
+
+Builds League of Legends isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.

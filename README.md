@@ -34,7 +34,7 @@ Builds League of Legends isn't endorsed by Riot Games and doesn't reflect the vi
 
 # Where does this data come from?
 
-All of the data like graphics and champions icons is from <a href="http://ddragon.leagueoflegends.com/tool/">Data Dragon</a>
+All of the data like graphics, descriptions and champions icons is from <a href="http://ddragon.leagueoflegends.com/tool/">Data Dragon</a>
 
 # Why this app?
 No one like to minimize the LOL game to check somethings. This all-in-one app provide all informations for semi-pro or pro players.

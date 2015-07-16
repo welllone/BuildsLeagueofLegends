@@ -41,8 +41,8 @@ No one like to minimize the LOL game to check somethings. This all-in-one app pr
 
 # How app worked?
 
-As described above this app provide informations to players. On first tab you can find search filter, under this you have all champions icons and names. Click icon to see counter pick for selected champion. Now after check who is strong and weak against click Build button to see how many build champion have and see lore.
+As described above this app provide informations to players. On first tab you can find search filter, under this you have all champions icons and names. Click icon to see counter pick for selected champion. Now after check who is strong and weak against click "Build" button to see how many build champion have and see lore.
 Then you can chose and press build. App will give you info about runes, spells, items, skills and masteries.
-Second tab is for jungle. As jungler just press start under every creature when you kill it to launch timer.
-Third tab is for setting. You can chose seven languages here, change theme dark/light, give Plus One, go to Facebook Fan Page and visit our Google Play account.
+Second tab is for jungle. As jungler just press "START" buttom near every creature when you kill it to launch timer.
+Third tab is for setting. You can chose seven languages here, change theme dark/light. Click "SAVE" to aplly changes. Also you can give Plus One, go to Facebook Fan Page and visit our Google Play account.
 Back button on your device just make tab will go back.
